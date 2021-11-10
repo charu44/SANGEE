@@ -23,7 +23,7 @@ Innerhour that will allow you to find unique approches to help you yourself only
     <BR>
       
       
-      Click the above link to open the prototype of the app.
+      <h4>Click the above link to open the prototype of the app.</h4>
       
 https://www.figma.com/proto/Z6tteT0MI8hkzFfpSOS45B/Sangee?node-id=3%3A343&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A343&show-proto-sidebar=1
       
